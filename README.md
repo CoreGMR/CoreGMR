@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CoreGMR
+- 👀 I’m interested in networks, hardware and programming
+- 🌱 I’m currently learning php, python
+- 💞️ I’m looking to collaborate on something simple
+- 📫 Discord: Leon | CoreGMR#6416
